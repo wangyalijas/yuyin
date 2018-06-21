@@ -1,0 +1,5 @@
+<button class="say"
+        bindtouchstart="start_say"
+        bindtouchend="start_end"
+>say</button>
+<view class="container">lalla</view>
